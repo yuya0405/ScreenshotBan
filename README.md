@@ -14,7 +14,7 @@ JSでスクリーンショットを禁止する機能を実装
 
 [JavaScriptでPrintscreenによる画面キャプチャを無理やり無効にする方法](https://qiita.com/Atheist2/items/d46e07508a6c619cca9f)
 
-[さまざまな動画のコピー防止策を知ろう](https://blog.socialcast.jp/11/post-371/#toc1)
+[さまざまな動画のコピー防止策を知ろう](https://blog.socialcast.jp/11/post-371/)
 
 # DRMを使った動画配信について
 
