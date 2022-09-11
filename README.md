@@ -20,7 +20,7 @@ JSでスクリーンショットを禁止する機能を実装
 
 本コードでは実装可能なコピー対策は出来るところまで行ったが、HTMLから動画のURLを解析されてしまうとダウンロードできるようになってしまう。これを防ぐ方法には、DRMを使った動画配信が挙げられる。
 
-- GoogleのDRM技術、Widevine
+- GoogleのWidevine
 - AppleのFairPlay
 - MicrosoftのPlayReady
 
