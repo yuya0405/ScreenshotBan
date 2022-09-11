@@ -1,6 +1,11 @@
 # ScreenshotBan
 JSでスクリーンショットを禁止する機能を実装
 
+# 実行方法
+
+1. 最新の [Node.js](https://nodejs.org/en/) がインストールされていることを確かめる。
+2. プロジェクトフォルダ（my-app）内で`npm start`を実行。
+
 # 実装に利用したコードの一部
 [画像の無断転載を防ぐ方法アイデアメモ](https://qiita.com/a_haru/items/2b8af48f84432e03f199)
 
